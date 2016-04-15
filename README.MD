@@ -1,8 +1,9 @@
-To start using Deep Media Analytics and collectin your data follow these steps:
+# Deep Media Analytics (DMA)
+Follow these steps to start using DMA for collecting your data:
 
-1. Obtain streamKey, accessKey from Deep.BI
-2. Download the script: stub.min.js
-3. Insert the code within the ```<head>``` section between ```<script>``` tag:
+* Obtain streamKey, accessKey from Deep.BI
+* Download the script: stub.min.js
+* Insert the code within the ```<head>``` section between ```<script>``` tag:
 
 ```
 <head>
@@ -14,7 +15,7 @@ To start using Deep Media Analytics and collectin your data follow these steps:
 
 ```
 
-4. Call DeepTracker function abywhere in HTML head or body section, but after the stub.min.js script code:
+* Call DeepTracker function abywhere in HTML head or body section, but after the stub.min.js script code:
 
 ```
 <body>
